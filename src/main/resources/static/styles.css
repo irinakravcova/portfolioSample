@@ -1,0 +1,8 @@
+body{
+    margin:0;
+    background-color:rgba(140, 114, 114, 0.4);
+}
+.font_family{
+	font-family:"Times New Roman" serif;
+	font-size: 25pt;
+}
